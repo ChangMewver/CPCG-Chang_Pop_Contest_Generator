@@ -1,4 +1,4 @@
-# CPCG---ChangPop-Contest-Generatoror
+# CPCG-Chang Pop Contest Generatoror
 유니티로 만든 영상 자동재생기
 
 제작자 유튜브
