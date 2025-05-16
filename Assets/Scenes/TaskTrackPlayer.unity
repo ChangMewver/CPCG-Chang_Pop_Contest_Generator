@@ -315,7 +315,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Level
+  m_text: "\uBE44\uACE0  : "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 434e2393cca7c9d48bafc616a942fc31, type: 2}
   m_sharedMaterial: {fileID: 2873827321668255127, guid: 434e2393cca7c9d48bafc616a942fc31, type: 2}

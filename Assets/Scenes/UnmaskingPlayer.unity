@@ -683,8 +683,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 100}
-  m_SizeDelta: {x: 1435.3204, y: 123.61}
+  m_AnchoredPosition: {x: 0.0099487, y: 100}
+  m_SizeDelta: {x: 1800, y: 123.61}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &844813290
 CanvasRenderer:
@@ -1604,7 +1604,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DJ 00\uBC88"
+  m_text: "\uCC38\uAC00\uBC88\uD638 00\uBC88"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 434e2393cca7c9d48bafc616a942fc31, type: 2}
   m_sharedMaterial: {fileID: 2873827321668255127, guid: 434e2393cca7c9d48bafc616a942fc31, type: 2}

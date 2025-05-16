@@ -17,6 +17,8 @@ public class BasicController : MonoBehaviour
     }
     void Update()
     {
+        HandleCursorVisibility(); // 커서 처리
+
         //    KeyInput();
 
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -29,6 +31,22 @@ public class BasicController : MonoBehaviour
             {
                 SceneManager.LoadScene("MainScene");
             }
+        }
+    }
+
+    void HandleCursorVisibility()
+    {
+        bool isMainScene = SceneManager.GetActiveScene().name == "MainScene";
+
+        if (isMainScene)
+        {
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        }
+        else
+        {
+            Cursor.visible = false;
+            Cursor.lockState = CursorLockMode.Locked;
         }
     }
 
@@ -50,3 +68,5 @@ public class BasicController : MonoBehaviour
     //    Debug.Log($"현재 곡: {songList[currentSongIndex]}"); // 곡 정보 출력 (가정)
     //}
 }
+
+

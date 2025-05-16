@@ -18,11 +18,11 @@ public class Com_SongInfoUIManager : MonoBehaviour
     {
         // UI 텍스트에 값 설정, 양식을 수정할 땐 여기서!
         // ----------------------------------------------------------------
-        NumberText.text = $"DJ NO.{songNumber}";
+        NumberText.text = $"참가번호 {songNumber}번";
         ComposerNameText.text = $": {ComposerName}";
         SongTitleText.text = $"{songTitle}";
         GenreText.text = $"[{Genre}]";
-        MissionsText.text = $"사용곡 : {Missions}";
+        MissionsText.text = $"미션 : {Missions}";
         CommentsText.text = $"아티스트 코멘트\n\n{Comment}";
         // ----------------------------------------------------------------
 

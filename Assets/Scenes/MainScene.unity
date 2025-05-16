@@ -1591,7 +1591,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -385.7866, y: -434.25983}
+  m_AnchoredPosition: {x: -385.7866, y: -431}
   m_SizeDelta: {x: 1072.751, y: 143.447}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1583413154
@@ -1614,8 +1614,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC591\uC2DD\uC5D0 \uB9DE\uCD98 CSV\uD30C\uC77C\uACFC \uC601\uC0C1\uD30C\uC77C\uC744
-    \uC900\uBE44\uD55C \uD6C4,\nStreamingAssets \uD3F4\uB354\uC5D0 \uB123\uC5B4 \uC7AC\uC0DD\uD569\uB2C8\uB2E4. "
+  m_text: "\uC81C\uC791 : \uBBA4\uBC84mewver\nVer 1.00B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 434e2393cca7c9d48bafc616a942fc31, type: 2}
   m_sharedMaterial: {fileID: 2873827321668255127, guid: 434e2393cca7c9d48bafc616a942fc31, type: 2}

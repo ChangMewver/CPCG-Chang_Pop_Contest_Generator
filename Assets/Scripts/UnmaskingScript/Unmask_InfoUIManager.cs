@@ -18,7 +18,7 @@ public class Unmask_InfoUIManager : MonoBehaviour
     {
         // UI 텍스트에 값 설정, 양식을 수정할 땐 여기서!
         // ----------------------------------------------------------------
-        NumberText.text = $"DJ No.{songNumber}";
+        NumberText.text = $"참가번호 {songNumber}번";
         ComposerNameText.text = $"{ComposerName}";
         GenreText.text = $"[{Genre}]";
         SongTitleText.text = $"{SongTitle}";

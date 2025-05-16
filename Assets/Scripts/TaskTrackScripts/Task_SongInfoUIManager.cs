@@ -18,8 +18,8 @@ public class Task_SongInfoUIManager : MonoBehaviour
         NumberText.text = $"No.{songNumber}";
         gameText.text = $"수록 : {gameTitle}";
         songTitleText.text = $"곡명 : {songTitle}";
-        artistText.text = $"아티스트 명의 : {artist}";
-        inGameLevelText.text = $"레벨 : {inGameLevel}";
+        artistText.text = $"제작자 : {artist}";
+        inGameLevelText.text = $"비고 : {inGameLevel}";
         bpmText.text = $"BPM : {displayBPM}";
         // ----------------------------------------------------------------
     }
