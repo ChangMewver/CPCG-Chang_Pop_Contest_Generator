@@ -4,6 +4,9 @@
 제작자 유튜브
 https://www.youtube.com/channel/UCD2krO8hCqSM1Szqlpiiv-Q
 
+가이드 영상
+https://youtu.be/QXCjSqa8LO4
+
 합본으로 최초공개를 하는 한 영상에 모여 다같이 감상하는 경험은 분명 좋지만, 시간이 없다. 귀찮다. 라는 이유로 이 경험을 따따잇 당한다는 것은 아쉬운 일입니다.
 그리하여 합본 영상을 자동으로 만들어주는 프로그램을 오픈소스로 배포합니다.
 
